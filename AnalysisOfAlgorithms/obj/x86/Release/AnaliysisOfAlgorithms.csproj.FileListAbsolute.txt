@@ -1,0 +1,35 @@
+C:\Users\asus\Desktop\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\bin\Release\AnaliysisOfAlgorithms.exe
+C:\Users\asus\Desktop\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\bin\Release\AnaliysisOfAlgorithms.pdb
+C:\Users\asus\Desktop\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\bin\Release\Huffman.dll
+C:\Users\asus\Desktop\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\bin\Release\Huffman.pdb
+C:\Users\asus\Desktop\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\obj\x86\Release\AnaliysisOfAlgorithms.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\obj\x86\Release\AnaliysisOfAlgorithms.Form1.resources
+C:\Users\asus\Desktop\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\obj\x86\Release\AnaliysisOfAlgorithms.Properties.Resources.resources
+C:\Users\asus\Desktop\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\obj\x86\Release\AnaliysisOfAlgorithms.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\obj\x86\Release\AnaliysisOfAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\obj\x86\Release\AnaliysisOfAlgorithms.exe
+C:\Users\asus\Desktop\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\obj\x86\Release\AnaliysisOfAlgorithms.pdb
+C:\Users\Melih\Desktop\ANALYSIS OF ALGORITHM\1-PROJE KAYNAK KODU\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\bin\Release\AnaliysisOfAlgorithms.exe
+C:\Users\Melih\Desktop\ANALYSIS OF ALGORITHM\1-PROJE KAYNAK KODU\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\bin\Release\AnaliysisOfAlgorithms.pdb
+C:\Users\Melih\Desktop\ANALYSIS OF ALGORITHM\1-PROJE KAYNAK KODU\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\bin\Release\Huffman.dll
+C:\Users\Melih\Desktop\ANALYSIS OF ALGORITHM\1-PROJE KAYNAK KODU\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\bin\Release\Huffman.pdb
+C:\Users\Melih\Desktop\ANALYSIS OF ALGORITHM\1-PROJE KAYNAK KODU\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\obj\x86\Release\AnaliysisOfAlgorithms.csprojAssemblyReference.cache
+C:\Users\Melih\Desktop\ANALYSIS OF ALGORITHM\1-PROJE KAYNAK KODU\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\obj\x86\Release\AnaliysisOfAlgorithms.Properties.Resources.resources
+C:\Users\Melih\Desktop\ANALYSIS OF ALGORITHM\1-PROJE KAYNAK KODU\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\obj\x86\Release\AnaliysisOfAlgorithms.csproj.GenerateResource.cache
+C:\Users\Melih\Desktop\ANALYSIS OF ALGORITHM\1-PROJE KAYNAK KODU\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\obj\x86\Release\AnaliysisOfAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\Melih\Desktop\ANALYSIS OF ALGORITHM\1-PROJE KAYNAK KODU\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\obj\x86\Release\AnaliysisOfAlgorithms.csproj.CopyComplete
+C:\Users\Melih\Desktop\ANALYSIS OF ALGORITHM\1-PROJE KAYNAK KODU\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\obj\x86\Release\AnaliysisOfAlgorithms.exe
+C:\Users\Melih\Desktop\ANALYSIS OF ALGORITHM\1-PROJE KAYNAK KODU\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\obj\x86\Release\AnaliysisOfAlgorithms.pdb
+C:\Users\Melih\Desktop\ANALYSIS OF ALGORITHM\1-PROJE KAYNAK KODU\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\obj\x86\Release\AnaliysisOfAlgorithms.HuffmanGUI.resources
+C:\Users\Melih\Desktop\ANALYSIS OF ALGORITHM - Kopya\1-PROJE KAYNAK KODU\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\bin\Release\AnaliysisOfAlgorithms.exe
+C:\Users\Melih\Desktop\ANALYSIS OF ALGORITHM - Kopya\1-PROJE KAYNAK KODU\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\bin\Release\AnaliysisOfAlgorithms.pdb
+C:\Users\Melih\Desktop\ANALYSIS OF ALGORITHM - Kopya\1-PROJE KAYNAK KODU\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\bin\Release\Huffman.dll
+C:\Users\Melih\Desktop\ANALYSIS OF ALGORITHM - Kopya\1-PROJE KAYNAK KODU\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\bin\Release\Huffman.pdb
+C:\Users\Melih\Desktop\ANALYSIS OF ALGORITHM - Kopya\1-PROJE KAYNAK KODU\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\obj\x86\Release\AnaliysisOfAlgorithms.csprojAssemblyReference.cache
+C:\Users\Melih\Desktop\ANALYSIS OF ALGORITHM - Kopya\1-PROJE KAYNAK KODU\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\obj\x86\Release\AnaliysisOfAlgorithms.HuffmanGUI.resources
+C:\Users\Melih\Desktop\ANALYSIS OF ALGORITHM - Kopya\1-PROJE KAYNAK KODU\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\obj\x86\Release\AnaliysisOfAlgorithms.Properties.Resources.resources
+C:\Users\Melih\Desktop\ANALYSIS OF ALGORITHM - Kopya\1-PROJE KAYNAK KODU\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\obj\x86\Release\AnaliysisOfAlgorithms.csproj.GenerateResource.cache
+C:\Users\Melih\Desktop\ANALYSIS OF ALGORITHM - Kopya\1-PROJE KAYNAK KODU\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\obj\x86\Release\AnaliysisOfAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\Melih\Desktop\ANALYSIS OF ALGORITHM - Kopya\1-PROJE KAYNAK KODU\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\obj\x86\Release\AnaliysisOfAlgorithms.csproj.CopyComplete
+C:\Users\Melih\Desktop\ANALYSIS OF ALGORITHM - Kopya\1-PROJE KAYNAK KODU\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\obj\x86\Release\AnaliysisOfAlgorithms.exe
+C:\Users\Melih\Desktop\ANALYSIS OF ALGORITHM - Kopya\1-PROJE KAYNAK KODU\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\obj\x86\Release\AnaliysisOfAlgorithms.pdb

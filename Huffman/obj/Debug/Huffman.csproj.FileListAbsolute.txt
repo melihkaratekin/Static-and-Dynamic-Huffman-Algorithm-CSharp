@@ -1,0 +1,38 @@
+C:\Users\днс\Documents\Visual Studio 2010\Projects\alg_kurs\Huffman\bin\Debug\Huffman.dll
+C:\Users\днс\Documents\Visual Studio 2010\Projects\alg_kurs\Huffman\bin\Debug\Huffman.pdb
+C:\Users\днс\Documents\Visual Studio 2010\Projects\alg_kurs\Huffman\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\днс\Documents\Visual Studio 2010\Projects\alg_kurs\Huffman\obj\Debug\Huffman.dll
+C:\Users\днс\Documents\Visual Studio 2010\Projects\alg_kurs\Huffman\obj\Debug\Huffman.pdb
+C:\Users\Дмитрий\Dropbox\3 курс\alg_kurs\Huffman\bin\Debug\Huffman.dll
+C:\Users\Дмитрий\Dropbox\3 курс\alg_kurs\Huffman\bin\Debug\Huffman.pdb
+C:\Users\Дмитрий\Dropbox\3 курс\alg_kurs\Huffman\obj\Debug\Huffman.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Dropbox\3 курс\alg_kurs\Huffman\obj\Debug\Huffman.dll
+C:\Users\Дмитрий\Dropbox\3 курс\alg_kurs\Huffman\obj\Debug\Huffman.pdb
+C:\Users\Дмитрий\Dropbox\Университеты\s3\alg_kurs\Huffman\bin\Debug\Huffman.dll
+C:\Users\Дмитрий\Dropbox\Университеты\s3\alg_kurs\Huffman\bin\Debug\Huffman.pdb
+C:\Users\Дмитрий\Dropbox\Университеты\s3\alg_kurs\Huffman\obj\Debug\Huffman.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Dropbox\Университеты\s3\alg_kurs\Huffman\obj\Debug\Huffman.dll
+C:\Users\Дмитрий\Dropbox\Университеты\s3\alg_kurs\Huffman\obj\Debug\Huffman.pdb
+E:\DynamicHaffmanCoding\alg_kurs\Huffman\bin\Debug\Huffman.dll
+E:\DynamicHaffmanCoding\alg_kurs\Huffman\bin\Debug\Huffman.pdb
+E:\DynamicHaffmanCoding\alg_kurs\Huffman\obj\Debug\Huffman.csprojResolveAssemblyReference.cache
+E:\DynamicHaffmanCoding\alg_kurs\Huffman\obj\Debug\Huffman.dll
+E:\DynamicHaffmanCoding\alg_kurs\Huffman\obj\Debug\Huffman.pdb
+C:\Users\asus\Downloads\dynamichuffman-e01a660165d4\dynamichuffman_e01a660165d4\Source\Huffman\bin\Debug\Huffman.dll
+C:\Users\asus\Downloads\dynamichuffman-e01a660165d4\dynamichuffman_e01a660165d4\Source\Huffman\bin\Debug\Huffman.pdb
+C:\Users\asus\Downloads\dynamichuffman-e01a660165d4\dynamichuffman_e01a660165d4\Source\Huffman\obj\Debug\Huffman.csprojResolveAssemblyReference.cache
+C:\Users\asus\Downloads\dynamichuffman-e01a660165d4\dynamichuffman_e01a660165d4\Source\Huffman\obj\Debug\Huffman.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\dynamichuffman-e01a660165d4\dynamichuffman_e01a660165d4\Source\Huffman\obj\Debug\Huffman.dll
+C:\Users\asus\Downloads\dynamichuffman-e01a660165d4\dynamichuffman_e01a660165d4\Source\Huffman\obj\Debug\Huffman.pdb
+C:\Users\asus\Desktop\AnaliysisOfAlgorithms\Huffman\bin\Debug\Huffman.dll
+C:\Users\asus\Desktop\AnaliysisOfAlgorithms\Huffman\bin\Debug\Huffman.pdb
+C:\Users\asus\Desktop\AnaliysisOfAlgorithms\Huffman\obj\Debug\Huffman.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\AnaliysisOfAlgorithms\Huffman\obj\Debug\Huffman.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\AnaliysisOfAlgorithms\Huffman\obj\Debug\Huffman.dll
+C:\Users\asus\Desktop\AnaliysisOfAlgorithms\Huffman\obj\Debug\Huffman.pdb
+C:\Users\Melih\Desktop\New folder (2)\Huffman\bin\Debug\Huffman.dll
+C:\Users\Melih\Desktop\New folder (2)\Huffman\bin\Debug\Huffman.pdb
+C:\Users\Melih\Desktop\New folder (2)\Huffman\obj\Debug\Huffman.csprojAssemblyReference.cache
+C:\Users\Melih\Desktop\New folder (2)\Huffman\obj\Debug\Huffman.csproj.CoreCompileInputs.cache
+C:\Users\Melih\Desktop\New folder (2)\Huffman\obj\Debug\Huffman.dll
+C:\Users\Melih\Desktop\New folder (2)\Huffman\obj\Debug\Huffman.pdb

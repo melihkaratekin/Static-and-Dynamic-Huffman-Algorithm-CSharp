@@ -1,0 +1,27 @@
+c:\users\gedikpc\documents\visual studio 2010\Projects\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\bin\Debug\AnaliysisOfAlgorithms.exe
+c:\users\gedikpc\documents\visual studio 2010\Projects\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\bin\Debug\AnaliysisOfAlgorithms.pdb
+c:\users\gedikpc\documents\visual studio 2010\Projects\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\obj\x86\Debug\AnaliysisOfAlgorithms.Form1.resources
+c:\users\gedikpc\documents\visual studio 2010\Projects\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\obj\x86\Debug\AnaliysisOfAlgorithms.Properties.Resources.resources
+c:\users\gedikpc\documents\visual studio 2010\Projects\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\obj\x86\Debug\AnaliysisOfAlgorithms.csproj.GenerateResource.Cache
+c:\users\gedikpc\documents\visual studio 2010\Projects\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\obj\x86\Debug\AnaliysisOfAlgorithms.exe
+c:\users\gedikpc\documents\visual studio 2010\Projects\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\obj\x86\Debug\AnaliysisOfAlgorithms.pdb
+C:\Users\GedikPC\documents\visual studio 2010\Projects\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\obj\x86\Debug\AnaliysisOfAlgorithms.csprojResolveAssemblyReference.cache
+C:\Users\GedikPC\Desktop\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\obj\x86\Debug\AnaliysisOfAlgorithms.exe
+C:\Users\GedikPC\Desktop\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\obj\x86\Debug\AnaliysisOfAlgorithms.pdb
+C:\Users\GedikPC\Desktop\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\bin\Debug\AnaliysisOfAlgorithms.exe
+C:\Users\GedikPC\Desktop\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\bin\Debug\AnaliysisOfAlgorithms.pdb
+C:\Users\GedikPC\Desktop\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\obj\x86\Debug\AnaliysisOfAlgorithms.csprojResolveAssemblyReference.cache
+C:\Users\GedikPC\Desktop\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\obj\x86\Debug\AnaliysisOfAlgorithms.Form1.resources
+C:\Users\GedikPC\Desktop\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\obj\x86\Debug\AnaliysisOfAlgorithms.Properties.Resources.resources
+C:\Users\GedikPC\Desktop\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\obj\x86\Debug\AnaliysisOfAlgorithms.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\bin\Debug\AnaliysisOfAlgorithms.exe
+C:\Users\asus\Desktop\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\bin\Debug\AnaliysisOfAlgorithms.pdb
+C:\Users\asus\Desktop\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\obj\x86\Debug\AnaliysisOfAlgorithms.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\obj\x86\Debug\AnaliysisOfAlgorithms.Form1.resources
+C:\Users\asus\Desktop\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\obj\x86\Debug\AnaliysisOfAlgorithms.Properties.Resources.resources
+C:\Users\asus\Desktop\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\obj\x86\Debug\AnaliysisOfAlgorithms.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\obj\x86\Debug\AnaliysisOfAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\obj\x86\Debug\AnaliysisOfAlgorithms.exe
+C:\Users\asus\Desktop\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\obj\x86\Debug\AnaliysisOfAlgorithms.pdb
+C:\Users\asus\Desktop\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\bin\Debug\Huffman.dll
+C:\Users\asus\Desktop\AnaliysisOfAlgorithms\AnaliysisOfAlgorithms\bin\Debug\Huffman.pdb

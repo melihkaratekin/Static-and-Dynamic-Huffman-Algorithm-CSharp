@@ -1,0 +1,12 @@
+C:\Users\Melih\Desktop\New folder (2)\AnalysisOfAlgorithms\bin\Debug\AnalysisOfAlgorithms.exe
+C:\Users\Melih\Desktop\New folder (2)\AnalysisOfAlgorithms\bin\Debug\AnalysisOfAlgorithms.pdb
+C:\Users\Melih\Desktop\New folder (2)\AnalysisOfAlgorithms\bin\Debug\Huffman.dll
+C:\Users\Melih\Desktop\New folder (2)\AnalysisOfAlgorithms\bin\Debug\Huffman.pdb
+C:\Users\Melih\Desktop\New folder (2)\AnalysisOfAlgorithms\obj\x86\Debug\HuffmanCoding.csprojAssemblyReference.cache
+C:\Users\Melih\Desktop\New folder (2)\AnalysisOfAlgorithms\obj\x86\Debug\AnalysisOfAlgorithms.HuffmanGUI.resources
+C:\Users\Melih\Desktop\New folder (2)\AnalysisOfAlgorithms\obj\x86\Debug\AnalysisOfAlgorithms.Properties.Resources.resources
+C:\Users\Melih\Desktop\New folder (2)\AnalysisOfAlgorithms\obj\x86\Debug\HuffmanCoding.csproj.GenerateResource.cache
+C:\Users\Melih\Desktop\New folder (2)\AnalysisOfAlgorithms\obj\x86\Debug\HuffmanCoding.csproj.CoreCompileInputs.cache
+C:\Users\Melih\Desktop\New folder (2)\AnalysisOfAlgorithms\obj\x86\Debug\HuffmanCoding.csproj.CopyComplete
+C:\Users\Melih\Desktop\New folder (2)\AnalysisOfAlgorithms\obj\x86\Debug\AnalysisOfAlgorithms.exe
+C:\Users\Melih\Desktop\New folder (2)\AnalysisOfAlgorithms\obj\x86\Debug\AnalysisOfAlgorithms.pdb
